@@ -1,0 +1,30 @@
+.jumbotron{
+   
+    background-image: url(14017.jpg);
+    text-align: center;
+}
+#email{
+    width: 300px;
+}
+#appsummary{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+
+}
+#appstoreicon{
+width: 200px;
+}
+#footer{
+    background-image: url(music.jpg);
+    padding-top: 150px;      
+    margin-top: 150px;
+    text-align: center;
+    padding-bottom: 50px;
+
+
+}
+body{
+    position: relative;
+
+}
